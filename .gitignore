@@ -1,2 +1,5 @@
 # Build Files
 *.exe
+
+# Payload files
+Payload/*
